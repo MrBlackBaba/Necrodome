@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DU_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{95900978-5953-438D-95CD-29C7ACFDC08B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DU_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DU_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{75748D09-8130-4D99-8B9C-C6F261A45D2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DU_Project">
+      <UniqueIdentifier>{45A51469-1011-4A35-95AB-C7194CF3151B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DU_Project\DU_Project.Build.cs">
+      <Filter>Source\DU_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DU_Project\DU_Project.cpp">
+      <Filter>Source\DU_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DU_Project\DU_Project.h">
+      <Filter>Source\DU_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DU_Project\DU_ProjectGameModeBase.cpp">
+      <Filter>Source\DU_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DU_Project\DU_ProjectGameModeBase.h">
+      <Filter>Source\DU_Project</Filter>
+    </ClInclude>
+    <Filter Include="Source\DU_Project\Player">
+      <UniqueIdentifier>{19438DB8-0037-43B2-B997-DAA09DCC2343}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DU_Project\Player\DUPlayer.cpp">
+      <Filter>Source\DU_Project\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DU_Project\Player\DUPlayer.h">
+      <Filter>Source\DU_Project\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
