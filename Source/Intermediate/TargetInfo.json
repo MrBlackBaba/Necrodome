@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "DU_Project",
-			"Path": "D:\\Source Codes\\Game Projects\\DU\\DU_Project\\Source\\DU_Project.Target.cs",
+			"Path": "D:\\Collabs\\DU\\Unleash\\Source\\Source\\DU_Project.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "DU_ProjectEditor",
-			"Path": "D:\\Source Codes\\Game Projects\\DU\\DU_Project\\Source\\DU_ProjectEditor.Target.cs",
+			"Path": "D:\\Collabs\\DU\\Unleash\\Source\\Source\\DU_ProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

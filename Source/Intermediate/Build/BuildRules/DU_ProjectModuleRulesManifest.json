@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\owner\\Documents\\GitHub\\Unleash\\Source\\Source\\DU_Project\\DU_Project.Build.cs",
-		"C:\\Users\\owner\\Documents\\GitHub\\Unleash\\Source\\Source\\DU_Project.Target.cs",
-		"C:\\Users\\owner\\Documents\\GitHub\\Unleash\\Source\\Source\\DU_ProjectEditor.Target.cs"
+		"D:\\Collabs\\DU\\Unleash\\Source\\Source\\DU_Project\\DU_Project.Build.cs",
+		"D:\\Collabs\\DU\\Unleash\\Source\\Source\\DU_Project.Target.cs",
+		"D:\\Collabs\\DU\\Unleash\\Source\\Source\\DU_ProjectEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

@@ -1,0 +1,5 @@
+D:\Collabs\DU\Unleash\Source\Intermediate\Build\Win64\UE4Editor\Development\DU_Project\Definitions.DU_Project.h
+D:\Collabs\DU\Unleash\Source\Source\DU_Project/Player/DUCameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+D:\Collabs\DU\Unleash\Source\Intermediate\Build\Win64\UE4Editor\Inc\DU_Project\DUCameraActor.generated.h
