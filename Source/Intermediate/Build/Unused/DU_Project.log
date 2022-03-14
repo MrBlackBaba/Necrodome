@@ -1,3 +1,12 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Collabs\DU\Unleash).
-  Target is up to date
-  Total execution time: 1.30 seconds
+  Building DU_ProjectEditor...
+  Using Visual Studio 2022 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] DUPlayer.cpp
+    [2/4] UE4Editor-DU_Project-0001.lib
+       ライブラリ D:\Collabs\DU\Unleash\Source\Intermediate\Build\Win64\UE4Editor\Development\DU_Project\UE4Editor-DU_Project-0001.lib とオブジェクト D:\Collabs\DU\Unleash\Source\Intermediate\Build\Win64\UE4Editor\Development\DU_Project\UE4Editor-DU_Project-0001.exp を作成中
+    [3/4] UE4Editor-DU_Project-0001.dll
+       ライブラリ D:\Collabs\DU\Unleash\Source\Intermediate\Build\Win64\UE4Editor\Development\DU_Project\UE4Editor-DU_Project-0001.suppressed.lib とオブジェクト D:\Collabs\DU\Unleash\Source\Intermediate\Build\Win64\UE4Editor\Development\DU_Project\UE4Editor-DU_Project-0001.suppressed.exp を作成中
+    [4/4] DU_ProjectEditor.target
+  Total time in Parallel executor: 7.90 seconds
+  Total execution time: 8.74 seconds
